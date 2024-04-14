@@ -3,7 +3,7 @@ from pyfiglet import Figlet
 from termcolor import colored
 
 f = Figlet(font='slant')
-print(colored(f.renderText('K e y-Logger'), 'yellow'))
+print(colored(f.renderText('c h e c k'), 'yellow'))
 print(f"\033[2;3m                                                             -by MD DILDAR MANDAL\033[0m")
 
 point=0
